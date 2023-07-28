@@ -1,0 +1,2 @@
+# Real-Time-Chat-app
+THIS REPO IS FOR REAL TIME APPLICATION
